@@ -1,0 +1,5 @@
+1)innkapsling er prinsippet at brukeren bare skal ha tilgang til metodene i klassen. Dette fører til mere sikker kode.
+
+2)grensesnittet er metodene som blir kalt på. Implementering er innmaten som er selve programmet bak klassen.
+
+3)instansmetoder/metoder skiller seg fra prosedyrer og funksjoner fordi de er en del av en klasse.

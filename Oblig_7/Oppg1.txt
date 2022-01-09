@@ -1,0 +1,9 @@
+Oppgave 1:
+
+2)
+En spilleliste har vanligvis en spesifik rekkefølge som man har lyst til å spille sangene i,
+man har derfor lyst på å indeksere dem i en liste heller enn å bruke en ordbok.
+3)
+Fordelen med å ha funksjonen som legger til sangene til spillelisten utenfor gjør at man kalle på funksjonen med annen tekstfil hvis man ønsker.
+4)
+Når man splitter på semikolon må vi appende de i omvendt rekkefølge for at de skal være i samme rekkefølge som konstruktøren til klassen Sang
